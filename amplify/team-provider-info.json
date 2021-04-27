@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-schoolreservation-dev-140446-authRole",
+      "UnauthRoleArn": "arn:aws:iam::898382541855:role/amplify-schoolreservation-dev-140446-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::898382541855:role/amplify-schoolreservation-dev-140446-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-schoolreservation-dev-140446-deployment",
+      "UnauthRoleName": "amplify-schoolreservation-dev-140446-unauthRole",
+      "StackName": "amplify-schoolreservation-dev-140446",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:898382541855:stack/amplify-schoolreservation-dev-140446/191185f0-a716-11eb-ac85-069db2e9c955",
+      "AmplifyAppId": "dniifkoplcwd2"
+    }
+  }
+}
